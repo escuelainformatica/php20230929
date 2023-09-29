@@ -22,7 +22,7 @@ Para ello cree lo siguiente
 - [x] Web (enrutamiento)
 
 
-# proyecto 29 septiembre
+# proyecto de ejemplo 29 septiembre
 
 Los modelos que se van a utilizar van a ser los siguiente
 
