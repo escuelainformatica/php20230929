@@ -10,16 +10,16 @@ Cree un proyecto nuevo para listar el siguiente modelo
 
 Para ello cree lo siguiente
 
-- [ ] Proyeecto
-- [ ] Modelo
-- [ ] Migracion
-- [ ] Factory
-- [ ] Seeder
-- [ ] Controller
-- [ ] Componentes sus clases (tabla y encabezado)
-- [ ] Componentes sus vistas (tabla y encabezado)
-- [ ] Vista
-- [ ] Web (enrutamiento)
+- [x] Proyecto nuevo
+- [x] Modelo Viaje
+- [x] Migracion viajemigracion
+- [x] Factory ViajeFactory
+- [x] Seeder (puede usar el mismo seeder)
+- [x] Controller ViajeController
+- [x] Componentes sus clases (tabla y encabezado)
+- [x] Componentes sus vistas (tabla y encabezado)
+- [x] Vista viaje.listar
+- [x] Web (enrutamiento)
 
 
 # proyecto 29 septiembre
